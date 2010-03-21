@@ -1,0 +1,15 @@
+#labels QHSE,ISO,Featured
+
+= Introduction =
+
+Integrated Quality, Health, Safety and Environment (QHSE) System
+
+
+= Details =
+
+The system covers ISO 9001 (QMS), ISO 14001 (EMS) and ISO 18000 (OHSAS) through various web services. As common processes can be subscribed independently so this decreses cost of ownership a lot. 
+- Documentation (Manuals/SOPs/WIs/Job Descriptions)
+- Automated common processes like Trainings, Document Control, Non Conformance Reporting, and Auditing etc.
+- Ready-to-use templates for records creation
+- Integration with Calibration Service Providers, Environmental Labs, Safety Organizations, Energy Auditing Companies and Hazardous Material Testing & Monitoring Agencies through XML based technology
+- Complete Item and Product Information Management including data cleansing and standardization
