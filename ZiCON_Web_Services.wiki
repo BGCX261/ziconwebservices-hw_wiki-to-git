@@ -1,0 +1,29 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Introduction =
+
+The purpose of the project is to create some web services which are industry specific and cater to the needs of end users, application vendors or auditors. There will be wide variety of these services which are cateorised among various industries as follows:
+- Manufacturing
+- Real Estate
+- Retail
+- Oil & Gas
+- Public
+- Aerospace & Defence
+- Telco
+- Financial Services
+- Warehousing & Distribution 
+- Logistics Service Providers (LSPs)
+
+
+= Details =
+
+These services can be subscribed in a SaaS model and will work like consumables. The services will be functionally categorized as follows:
+- Suppliers benchmarking
+- Data Quality
+- Customer/Supplier Onboarding
+- Many more ...
+
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
