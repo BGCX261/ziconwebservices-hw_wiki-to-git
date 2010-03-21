@@ -1,0 +1,9 @@
+= Introduction =
+
+#Based on GSDN/GTIN Standards
+
+
+= Details =
+
+This is an international data pool service for global retail chains to do standardized categorization, onboarding and codification of new suppliers and conducting 360 degrees analysis of their existing suppliers. This service provides world class analytics for supplier data quality and performance monitoring.
+
