@@ -3,7 +3,7 @@
 
 = Introduction =
 
-The purpose of the project is to create some web services which are industry specific and cater to the needs of end users, application vendors or auditors. There will be wide variety of these services which are cateorised among various industries as follows:
+The purpose of the project is to create some web services which are industry specific and cater to the needs of end users, application vendors or auditors. There will be wide variety of these services which are categorised among various industries as follows:
 - Manufacturing
 - Real Estate
 - Retail
@@ -23,7 +23,3 @@ These services can be subscribed in a SaaS model and will work like consumables.
 - Data Quality
 - Customer/Supplier Onboarding
 - Many more ...
-
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
