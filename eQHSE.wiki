@@ -7,7 +7,7 @@ Integrated Quality, Health, Safety and Environment (QHSE) System
 = Details =
 
 The system covers ISO 9001 (QMS), ISO 14001 (EMS) and ISO 18000 (OHSAS) through various<BR>
-web services. As common processes can be subscribed independently so this decreses cost of ownership a lot. 
+web services. As common processes can be subscribed independently so this decreses cost of ownership a lot. <BR>
 - Documentation (Manuals/SOPs/WIs/Job Descriptions)<BR>
 - Automated common processes like Trainings, Document Control, Non Conformance Reporting, and Auditing etc.<BR>
 - Ready-to-use templates for records creation<BR>
