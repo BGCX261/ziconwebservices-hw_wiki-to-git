@@ -5,10 +5,10 @@ This service provides many benefits to importers and exporters who deal with US 
 
 
 = Details =
-Some of the features of this service are:
+Some of the features of this service are:<BR>
 - GTM specific analystics <BR>
-- Correction to Commodity Classification
-- Identification of restricted party or embargo country
-- Proactive Financial Information
-- L/C Management
-- GTM Content Management including customer, supplier, products and sites
+- Correction to Commodity Classification<BR>
+- Identification of restricted party or embargo country<BR>
+- Proactive Financial Information<BR>
+- L/C Management<BR>
+- GTM Content Management including customer, supplier, products and sites<BR>
