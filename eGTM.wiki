@@ -1,0 +1,14 @@
+#labels GTM,Featured
+= Introduction =
+
+This service provides many benefits to importers and exporters who deal with US and China based trading.
+
+
+= Details =
+Some of the features of this service are:
+- GTM specific analystics
+- Correction to Commodity Classification
+- Identification of restricted party or embargo country
+- Proactive Financial Information
+- L/C Management
+- GTM Content Management including customer, supplier, products and sites
