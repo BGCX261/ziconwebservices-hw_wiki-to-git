@@ -1,7 +1,7 @@
 #labels RealEstate,Property,Broker,Evaluation,Featured
 = Introduction =
 
-It is a subscribed web service for property investors either individual or group and financial institutions to have realistic evaluation of the property. The criteria is based on Standard and Poor's model which is proven to be the most helpful since two decades.
+It is a subscribed web service for property investors either individual or groups, brokers, insurance companies and financial institutions to have realistic evaluation of the property. The criteria is based on Standard and Poor's model which is proven to be the most helpful since two decades.
 
 
 = Details =
