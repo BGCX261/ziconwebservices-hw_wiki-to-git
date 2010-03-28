@@ -1,9 +1,9 @@
 #labels RealEstate,Property,Broker,Evaluation,Featured
 = Introduction =
 
-It is a service for individual property buyers to have realistic valuation of the property
+It is a subscribed web service for property investors either individual or group and financial institutions to have realistic evaluation of the property. The criteria is based on Standard and Poor's model which is proven to be the most helpful since two decades.
 
 
 = Details =
 
-It utilizes industry best practice template to judge the value of the property. This will help them to negotiate well with brokers, owners, banks and insurance companies.
+It utilizes industry best practice template to judge the value of the property. This will help interested parties to negotiate well with brokers, owners, banks and insurance companies also giving lenders realistic picture for signing win-win deals.
