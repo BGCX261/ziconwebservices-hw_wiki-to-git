@@ -1,4 +1,4 @@
-#labels RealEstate,Property,Broker
+#labels RealEstate,Property,Broker,Evaluation,Featured
 = Introduction =
 
 It is a service for individual property buyers to have realistic valuation of the property
